@@ -1,0 +1,1 @@
+# array-of-objects-with-name-and-age-properties-return-an-array-of-names.
